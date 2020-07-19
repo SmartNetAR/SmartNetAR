@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hi, I'm Leo 👋🙎‍♂️💻
 
+```js
+const smartnetAr = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, JSX, C++, PHP],
+  tools: [React, Vue, Node, Mocha, Chai, Laravel, Docker, RabbitMQ],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  db: [MongoDB, PostgreSQL, MySQL],
+}
+```
+
+You can find me 🌎:
+- [Linkedin](https://www.linkedin.com/in/leonardo-casales/)
 <!--
 **SmartNetAR/SmartNetAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
